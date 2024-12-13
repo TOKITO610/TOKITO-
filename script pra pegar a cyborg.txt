@@ -1,0 +1,2 @@
+﻿getgenv().Team = "Marines" -- Pirates/Marines
+loadstring(game:HttpGet("http://apixerohub.x10.mx/new_main.lua"))()
